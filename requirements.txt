@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+transformers
+chromadb
+pdfminer.six
+huggingface-hub
+sentence-transformers
